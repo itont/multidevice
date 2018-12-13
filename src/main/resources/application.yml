@@ -1,7 +1,7 @@
 server:
   port: 9000
 system:
-  # Ìø×ª²»Í¬ÏµÍ³ÇëÊ¹ÓÃ redirect:http://127.0.0.1:8080
+  # è·³è½¬ä¸åŒç³»ç»Ÿè¯·ä½¿ç”¨ redirect:http://127.0.0.1:8080
   mobile-site: "mobile"
-  # Ìø×ª²»Í¬ÏµÍ³ÇëÊ¹ÓÃ redirect:http://127.0.0.1:8060
+  # è·³è½¬ä¸åŒç³»ç»Ÿè¯·ä½¿ç”¨ redirect:http://127.0.0.1:8060
   default-site: "default"

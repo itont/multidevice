@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @description:
+ * @description: 首页
  * @author: cuihd
  * @date: 2018-12-12 19:20
  **/

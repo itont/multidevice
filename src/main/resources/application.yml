@@ -1,0 +1,7 @@
+server:
+  port: 9000
+system:
+  # 跳转不同系统请使用 redirect:http://127.0.0.1:8080
+  mobile-site: "mobile"
+  # 跳转不同系统请使用 redirect:http://127.0.0.1:8060
+  default-site: "default"
